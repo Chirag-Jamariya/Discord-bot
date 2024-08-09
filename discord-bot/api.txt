@@ -1,0 +1,5 @@
+Api I used for this Project:-
+
+for ctfs I used = https://ctftime.org/api/v1/events/?limit={number}&start={timestamp}&finish={timestamp}
+
+for hackathons I used = https://devpost.com/api/hackathons
